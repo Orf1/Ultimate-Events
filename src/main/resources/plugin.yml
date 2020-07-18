@@ -1,0 +1,5 @@
+name: Ultimate Events
+version: ${project.version}
+main: dev.orf1.plugins.ultimateevents.Main
+api-version: 1.16
+load: STARTUP
